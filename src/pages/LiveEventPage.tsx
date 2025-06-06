@@ -73,14 +73,15 @@ const LiveEventPage: React.FC = () => {
         <h3 className="text-3xl font-bold mb-8 text-center text-gray-800">Investering in Jouw Toekomst</h3>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="bg-white p-8 rounded-lg shadow-lg text-center border-b-4 border-blue-600 transform hover:scale-105 transition-transform duration-300">
-            <h4 className="text-2xl font-bold mb-4 text-blue-700">Eerste keer</h4>
-            <p className="text-5xl font-extrabold text-blue-600 mb-4">€70,-</p>
-            <p className="text-gray-700 text-lg">Speciaal introductietarief voor nieuwe deelnemers. Ontdek de voordelen van ZZP Kompas!</p>
+            <h4 className="text-2xl font-bold mb-4 text-blue-700">Elke keer</h4>
+            <p className="text-5xl font-extrabold text-blue-600 mb-4">€24,99,-</p>
+            <p className="text-gray-700 text-lg">Speciaal introductietarief voor nieuwe deelnemers. <br>
+            </br>Begin vandaag en ontdek de voordelen van ZZP Kompas!</p>
           </div>
           <div className="bg-white p-8 rounded-lg shadow-lg text-center border-b-4 border-green-500 transform hover:scale-105 transition-transform duration-300">
-            <h4 className="text-2xl font-bold mb-4 text-green-700">Tweede keer</h4>
-            <p className="text-5xl font-extrabold text-green-500 mb-4">€80,-</p>
-            <p className="text-gray-700 text-lg">Voor terugkerende deelnemers. Blijf groeien en netwerken met onze community.</p>
+            <h4 className="text-2xl font-bold mb-4 text-green-700">Per 4ᵉ bezoek</h4>
+            <p className="text-5xl font-extrabold text-green-500 mb-4">€5 euro korting</p>
+            <p className="text-gray-700 text-lg">Voor de terugkerende deelnemers. <br></br>Blijf groeien en netwerken met onze community.</p>
           </div>
         </div>
       </section>
